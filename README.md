@@ -14,3 +14,18 @@ The txt file with the VI editor contents with the changes saved
 
 Save changes to a file
 <img src="Save to file.png">
+
+Key commands available:
+	j - move cursor down
+	k - move cursor up
+	h - move cursor left
+	dd - delete whole current line
+	u - undo previous command
+
+	i - insert text incurrent line
+	I - insert new line
+	x - delete a character on cursor
+
+	<ESC> - leave editing mode
+	q - exit program
+	
