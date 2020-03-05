@@ -1,7 +1,7 @@
 # VI-Editor
 A program using various data structures in C++ to simulate simple elements of a VI editor such as typing in sentences, deleting, undoing, and saving sentences to a .txt file. 
 
-Simply add each file (.h, .cpp etc) to the corresponding containers from visual studio and debug the program.
+Simply add each file (.h, .cpp, .inl) to the corresponding containers from visual studio and debug the program.
 
 Inputting a new sentence(node) onto a file
 <img src="VI-editor sample output.png">
